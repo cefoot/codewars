@@ -1,0 +1,1 @@
+codewars is a simple game for machines(ki)
